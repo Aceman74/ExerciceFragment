@@ -13,6 +13,10 @@ import com.aceman.myfragmentapp.controllers.fragments.ParamsFragment;
 import butterknife.BindView;
 import butterknife.ButterKnife;
 
+/**
+ * Created by Aceman - on 06/03/2019.
+ */
+
 public class ParamsActivity extends AppCompatActivity {
 
      ParamsFragment paramsFragment;
